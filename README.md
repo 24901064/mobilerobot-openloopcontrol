@@ -9,25 +9,17 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 ## Procedure
 
-Step1:
+Step 1 :Initialize the robot, chassis, LED, and camera systems, and start video streaming.
 
-<br/>
+Step 2 :Move the robot forward and change LED color.
 
-Step2:
+Step 3 :Perform rotations and side movements with synchronized LED color changes.
 
-<br/>
+Step 4 :Complete a final 360° rotation with an LED color update.
 
-Step3:
+Step 5 :Stop the video stream and shut down the robot safely.
 
-<br/>
 
-Step4:
-
-<br/>
-
-Step5:
-
-<br/>
 
 ## Program
 ```python
